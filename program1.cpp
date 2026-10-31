@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int amin(){
+int main(){
     cout<<"Hello world!";
     int num=6;
     num+=3;
