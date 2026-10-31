@@ -11,6 +11,7 @@ int amin(){
     int val=5;
     val*=num;
     val=%3;
+    cout<<val\n;
     val=>o?cout<<"true";
     :cout<<"false";
     return 0;
