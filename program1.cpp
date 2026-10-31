@@ -12,8 +12,7 @@ int main(){
     val*=num;
     val=%3;
     cout<<val\n;
-    val=>o?cout<<"true";
-    :cout<<"false";
+    cout<<"I am programer";
     return 0;
 }
 
